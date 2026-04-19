@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio designed and developed to showcase my expertise as an AI Automation Engineer and Full Stack Developer. The site features a clean, minimal aesthetic with a cinematic 3D touch. 
 
-![Portfolio Preview](./public/images/project-ams.png)
+![Portfolio Desktop & Mobile Preview](./public/images/portfolio-mockup.png)
 
 ## 📌 Features
 
